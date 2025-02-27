@@ -16,7 +16,7 @@ This **Tableau dashboard** provides a **comprehensive analysis** of Olist’s e-
 📌 **Opportunities for targeted promotions & inventory optimization**.  
 
 ### 📌 View the Dashboard Here:  
-🔗 **[Tableau Dashboard](https://public.tableau.com/views/OlistE-CommerceDashboard_17366761612590)**  
+🔗 **[Tableau Dashboard](https://public.tableau.com/app/profile/hijir.della.wirasti5486/viz/OlistE-CommerceDashboard_17366761612590/DashboardExecutive)**  
 
 This project showcases **data-driven decision-making** to optimize **e-commerce strategies**! 🚀  
 
